@@ -1,6 +1,6 @@
 # Prediction_Of_Rock-and-Mine-using-Sonar-Data.
 
-#This project aims to classify the obstacle under sea water as either Rock OR Mines#
+This project aims to classify the obstacle under sea water as either Rock OR Mines
 
 I have used SONAR data available publicly. This dataset contains 60 numerical features.
 
